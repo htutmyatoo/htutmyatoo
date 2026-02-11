@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🤘, I'm Htut Myat Oo</h1>
 <h3 align="center">A Developer who Loves Music and Coding</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOURNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/htutmyatoo" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee"/>
   </a>
 </p>
