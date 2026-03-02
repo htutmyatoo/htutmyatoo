@@ -4,8 +4,8 @@
 <h1 align="center">Hi 🤘, I'm Htut Myat Oo</h1>
 <h3 align="center">A Developer who Loves Music and Coding</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/htutmyatoo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee"/>
+  <a href="https://ko-fi.com/J3J21UINNT" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png?_gl=1*mz6i7q*_gcl_au*MTE3MDY3MDM4NC4xNzcxNDUyMzcx*_ga*MTY2NTkxNjMxNy4xNzcxNDUyMzcy*_ga_M13FZ7VQ2C*czE3NzI0NTgwOTQkbzEyJGcxJHQxNzcyNDU4NDc4JGo1MSRsMCRoMA.." width = 200 alt="Ko-fi.com"/>
   </a>
 </p>
 
