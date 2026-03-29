@@ -26,7 +26,7 @@
 <details>
 <summary><strong>🧩 Languages and Tools:</strong></summary>
 <br>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htutmyatoo&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htutmyatoo&theme=blue_green" />
 </details>
 
 <details>
