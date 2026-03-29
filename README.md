@@ -19,7 +19,7 @@
 
 - 🌱 Currently learning **Technology Product Development and AI/ML**
 - 🤝 Looking to collaborate on **sandwich year**
-- 📫 Reach me by **[sending Email](mailto:htutmyatoo.dev@gmail.com)**
+- 📫 Reach me via **[Matrix](https://matrix.to/#/@htutmyatoo:matrix.org)**
 - 🫠 Fun fact: **"*9teen*"** **is my nickname and pet (dog) name** 
 </details>
 
