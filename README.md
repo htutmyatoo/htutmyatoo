@@ -1,11 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=htutmyatoo&label=Profile%20views&color=83a15e&style=flat" alt="htutmyatoo" /> </p>
 <p align="center"><img src='http://images6.fanpop.com/image/photos/43000000/-It-was-the-Night-Monkey-Spider-Man-Far-From-Home-2019-spider-man-43030337-540-285.gif' alt="Night Monkey Spider-Man Gif"></p>  
 
-<h1 align="center">Hi 🤘, I'm Htut Myat Oo</h1>
-<h3 align="center">A Developer who Loves Music and Coding</h3>
+<h1 align="center">Yep! I'm Htut Myat Oo 👀</h1>
+<h3 align="center">A Developer who Loves Composing and Coding</h3>
 
 <details>
-<summary><strong>🚀 Background Information:</strong></summary>
+<summary><strong>🚀 Background Information</strong></summary>
 <br>
 <img align='right' src='https://i.pinimg.com/564x/67/4c/97/674c9779a74378172cc12720c9e2244f.jpg' width='250'alt="Retro Computer Music Production JPG">
   
@@ -13,7 +13,7 @@
 </details>
 
 <details open="">
-<summary><strong>🪐 General Status:</strong></summary>
+<summary><strong>🪐 General Status</strong></summary>
 <br>
 <img align='right' src='https://i.pinimg.com/564x/4e/71/3c/4e713c4a580873942a94bef175333b1b.jpg' width='250'alt="The Amazing Spider-Man JPG">
 
@@ -24,19 +24,19 @@
 </details>
 
 <details>
-<summary><strong>🧩 Languages and Tools:</strong></summary>
+<summary><strong>🧩 Languages and Tools</strong></summary>
 <br>
-<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htutmyatoo&theme=blue_green" />
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htutmyatoo&theme=blue_green&exclude=html" />
 </details>
 
 <details>
-<summary><strong>🛰 Social Media:</strong></summary>
+<summary><strong>🛰 Network</strong></summary>
 <br>
-<p align="left">
-<a href="https://www.linkedin.com/in/htutmyatoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htutmyatoo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/htutmyatoo.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htutmyatoo" height="30" width="40" /></a>
-<a href="https://instagram.com/9teenmine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9teenmine" height="30" width="40" /></a>
-</p>
+  
+<!-- SOCIALS (MARKDOWN) -->  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htutmyatoo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/htutmyatoo.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/9teenmine)
 </details>
 
 <p align="left">
