@@ -9,7 +9,7 @@
 <br>
 <img align='right' src='https://i.pinimg.com/564x/67/4c/97/674c9779a74378172cc12720c9e2244f.jpg' width='250'alt="Retro Computer Music Production JPG">
   
->"I'm an *INTP Junior Full-Stack Developer* 🧑🏻 who is currently studying **MSc. Applied Data Science** 👨‍💻 at [**University of Sunderland.**](https://www.sunderland.ac.uk/) I'm also known as [**9teenmine**](https://www.facebook.com/profile.php?id=61573569670327) who is creating the music since 2015. I started learning **Computer Science** 💻 in 2019, **Data Structure and Algorithm** 📈 in 2021, and graduated with **a BSc in Computer Systems Engineering** in 2024. *Computer Music Production* and *Graphic Designing* are my other passionate industries. I joined **GitHub** <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="15" width="20" /></a> on January 27, 2022."
+>I'm an *INTP Junior Full-Stack Developer* 🧑🏻 who is currently studying **MSc. Applied Data Science** 👨‍💻 at [**University of Sunderland.**](https://www.sunderland.ac.uk/) I'm also known as [**9teenmine**](https://www.facebook.com/profile.php?id=61573569670327) who is creating the music since 2015. I started learning **Computer Science** 💻 in 2019, **Data Structure and Algorithm** 📈 in 2021, and graduated with **a BSc in Computer Systems Engineering** in 2024. *Computer Music Production* and *Graphic Designing* are my other passionate industries. I contributed on **GitHub** on January 27, 2022.
 </details>
 
 <details open="">
