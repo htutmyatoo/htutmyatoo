@@ -17,16 +17,16 @@
 <br>
 <img align='right' src='https://i.pinimg.com/564x/4e/71/3c/4e713c4a580873942a94bef175333b1b.jpg' width='250'alt="The Amazing Spider-Man JPG">
 
-- 🌱 Currently learning **Technology Product Development and AI/ML**
-- 🤝 Looking to collaborate on **sandwich year**
+- 🌱 Currently building **LetHan**
+- 🤝 Looking for **Full-time jobs**
 - 📫 Reach me via **[Matrix](https://matrix.to/#/@htutmyatoo:matrix.org)**
 - 🫠 Fun fact: **"*9teen*"** **is my nickname and pet (dog) name** 
 </details>
 
 <details>
-<summary><strong>🧩 Languages and Tools</strong></summary>
+<summary><strong>🧩 Languages</strong></summary>
 <br>
-<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htutmyatoo&theme=blue_green&exclude=html" />
+<img align="center" src="./assets/languages.svg" alt="Language distribution based on public and private repository code" width="400"/>
 </details>
 
 <details>
