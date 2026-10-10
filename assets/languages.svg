@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img" aria-labelledby="title desc">
+<title id="title">Code distribution across public and private repositories</title>
+<desc id="desc">Language percentages represent GitHub-reported source code bytes, not proficiency or commits.</desc>
+<rect width="700" height="280" rx="16" fill="#101b28"/>
+<text x="28" y="35" fill="#f4f7fb" font-family="Arial,sans-serif" font-size="18" font-weight="700">Code Distribution</text>
+<text x="28" y="54" fill="#9aabba" font-family="Arial,sans-serif" font-size="11">Public + private repositories</text>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#2b3948" stroke-width="24"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#33b8a5" stroke-width="24" stroke-dasharray="356.0204 190.6167" stroke-dashoffset="0.0000" transform="rotate(-90 155 137)"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#65dbb5" stroke-width="24" stroke-dasharray="103.7834 442.8537" stroke-dashoffset="-356.0204" transform="rotate(-90 155 137)"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#62a6e8" stroke-width="24" stroke-dasharray="54.0863 492.5508" stroke-dashoffset="-459.8038" transform="rotate(-90 155 137)"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#9184e8" stroke-width="24" stroke-dasharray="19.3458 527.2913" stroke-dashoffset="-513.8901" transform="rotate(-90 155 137)"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#ecc373" stroke-width="24" stroke-dasharray="8.7038 537.9334" stroke-dashoffset="-533.2359" transform="rotate(-90 155 137)"/>
+<circle cx="155" cy="137" r="87" fill="none" stroke="#7d8da5" stroke-width="24" stroke-dasharray="4.6975 541.9396" stroke-dashoffset="-541.9396" transform="rotate(-90 155 137)"/>
+<text x="155" y="135" text-anchor="middle" fill="#f4f7fb" font-size="20" font-weight="700" font-family="Arial,sans-serif">6</text>
+<text x="155" y="154" text-anchor="middle" fill="#9aabba" font-size="12" font-family="Arial,sans-serif">languages</text>
+<circle cx="345" cy="78" r="6" fill="#33b8a5"/>
+<text x="361" y="83" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Dart</text>
+<text x="643" y="83" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">65.1%</text>
+<circle cx="345" cy="107" r="6" fill="#65dbb5"/>
+<text x="361" y="112" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Python</text>
+<text x="643" y="112" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">19.0%</text>
+<circle cx="345" cy="136" r="6" fill="#62a6e8"/>
+<text x="361" y="141" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">PHP</text>
+<text x="643" y="141" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">9.9%</text>
+<circle cx="345" cy="165" r="6" fill="#9184e8"/>
+<text x="361" y="170" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Kotlin</text>
+<text x="643" y="170" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">3.5%</text>
+<circle cx="345" cy="194" r="6" fill="#ecc373"/>
+<text x="361" y="199" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">C++</text>
+<text x="643" y="199" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">1.6%</text>
+<circle cx="345" cy="223" r="6" fill="#7d8da5"/>
+<text x="361" y="228" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Other</text>
+<text x="643" y="228" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">0.9%</text>
+<text x="345" y="263" fill="#7e91a4" font-size="10" font-family="Arial,sans-serif">Share of detected code bytes · excludes selected languages</text>
+</svg>
