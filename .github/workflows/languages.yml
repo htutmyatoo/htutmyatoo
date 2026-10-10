@@ -1,0 +1,34 @@
+name: Update language chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'  # Daily, UTC
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate SVG
+        env:
+          LANGUAGE_STATS_TOKEN: ${{ secrets.LANGUAGE_STATS_TOKEN }}
+          GITHUB_USERNAME: htutmyatoo
+          EXCLUDE_LANGUAGES: HTML,CSS,Jupyter Notebook
+          EXCLUDE_REPOS: htutmyatoo
+        run: python scripts/language_chart.py
+      - name: Commit if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update language distribution"
+            git push
+          fi
