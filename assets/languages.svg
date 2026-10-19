@@ -3,20 +3,20 @@
 <desc id="desc">Language percentages represent GitHub-reported code bytes, not proficiency or commits.</desc>
 <rect width="550" height="230" rx="16" fill="#101b28"/>
 <circle cx="125" cy="115" r="78" fill="none" stroke="#2b3948" stroke-width="20"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#33b8a5" stroke-width="20" stroke-dasharray="319.1907 170.8977" stroke-dashoffset="0.0000" transform="rotate(-90 125 115)"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#65dbb5" stroke-width="20" stroke-dasharray="93.0472 397.0413" stroke-dashoffset="-319.1907" transform="rotate(-90 125 115)"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#62a6e8" stroke-width="20" stroke-dasharray="48.4912 441.5973" stroke-dashoffset="-412.2379" transform="rotate(-90 125 115)"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#9184e8" stroke-width="20" stroke-dasharray="17.3445 472.7440" stroke-dashoffset="-460.7291" transform="rotate(-90 125 115)"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#ecc373" stroke-width="20" stroke-dasharray="7.8034 482.2851" stroke-dashoffset="-478.0736" transform="rotate(-90 125 115)"/>
-<circle cx="125" cy="115" r="78" fill="none" stroke="#7d8da5" stroke-width="20" stroke-dasharray="4.2115 485.8769" stroke-dashoffset="-485.8769" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#33b8a5" stroke-width="20" stroke-dasharray="318.7753 171.3132" stroke-dashoffset="0.0000" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#65dbb5" stroke-width="20" stroke-dasharray="93.5639 396.5245" stroke-dashoffset="-318.7753" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#62a6e8" stroke-width="20" stroke-dasharray="48.4280 441.6604" stroke-dashoffset="-412.3392" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#9184e8" stroke-width="20" stroke-dasharray="17.3219 472.7665" stroke-dashoffset="-460.7673" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#ecc373" stroke-width="20" stroke-dasharray="7.7932 482.2952" stroke-dashoffset="-478.0892" transform="rotate(-90 125 115)"/>
+<circle cx="125" cy="115" r="78" fill="none" stroke="#7d8da5" stroke-width="20" stroke-dasharray="4.2060 485.8824" stroke-dashoffset="-485.8824" transform="rotate(-90 125 115)"/>
 <text x="125" y="113" text-anchor="middle" fill="#f4f7fb" font-size="24" font-weight="700" font-family="Arial,sans-serif">6</text>
 <text x="125" y="132" text-anchor="middle" fill="#9aabba" font-size="12" font-family="Arial,sans-serif">languages</text>
 <circle cx="260" cy="57" r="6" fill="#33b8a5"/>
 <text x="276" y="62" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Dart</text>
-<text x="520" y="62" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">65.1%</text>
+<text x="520" y="62" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">65.0%</text>
 <circle cx="260" cy="86" r="6" fill="#65dbb5"/>
 <text x="276" y="91" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">Python</text>
-<text x="520" y="91" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">19.0%</text>
+<text x="520" y="91" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">19.1%</text>
 <circle cx="260" cy="115" r="6" fill="#62a6e8"/>
 <text x="276" y="120" fill="#e6edf5" font-size="14" font-family="Arial,sans-serif">PHP</text>
 <text x="520" y="120" text-anchor="end" fill="#b8c8d6" font-size="14" font-family="Arial,sans-serif">9.9%</text>
