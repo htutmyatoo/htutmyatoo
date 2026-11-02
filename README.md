@@ -18,7 +18,7 @@
 <img align='right' src='https://i.pinimg.com/564x/4e/71/3c/4e713c4a580873942a94bef175333b1b.jpg' width='250'alt="The Amazing Spider-Man JPG">
 
 - 🌱 Currently building **[LetHan](https://lethan-app.vercel.app)**
-- 🤝 Looking for **Full-time jobs**
+- 🤝 Looking for **Software or Data Engineer Jobs**
 - 📫 Reach me via **[Matrix](https://matrix.to/#/@htutmyatoo:matrix.org)**
 - 🫠 Fun fact: **"*9teen*"** **is my nickname and pet (dog) name** 
 </details>
